@@ -4,11 +4,6 @@ using UnityEngine;
 
 public class GamePlay : MonoBehaviour
 {
-    //public AudioSource eatPelletSound;
-    //public AudioSource movingSound;
-    //public AudioSource wallCollisionSound;
-    //public AudioSource deathSound;
-
     public AudioClip thiefNormalSound;
     public AudioClip startSound;
     public AudioSource audioSource;
